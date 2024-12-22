@@ -1,0 +1,12 @@
+C:\Users\zhroz\Desktop\ANN\ANN1\ANN1\x64\Debug\ANN1.vcxproj.AssemblyReference.cache
+C:\Users\zhroz\Desktop\ANN\ANN1\ANN1\x64\Debug\ANN1.Form1.resources
+C:\Users\zhroz\Desktop\ANN\ANN1\ANN1\x64\Debug\ANN1.vcxproj.GenerateResource.cache
+C:\Users\zhroz\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.vcxproj.AssemblyReference.cache
+C:\Users\zhroz\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.Form1.resources
+C:\Users\zhroz\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.vcxproj.GenerateResource.cache
+C:\Users\zhroz\Desktop\ANN\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.vcxproj.AssemblyReference.cache
+C:\Users\zhroz\Desktop\ANN\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.Form1.resources
+C:\Users\zhroz\Desktop\ANN\ARTIFICIAL-NEURAL-NETWORK\ANN1\ANN1\x64\Debug\ANN1.vcxproj.GenerateResource.cache
+C:\Users\zhroz\Desktop\422610\422610\ANN1\x64\Debug\ANN1.vcxproj.AssemblyReference.cache
+C:\Users\zhroz\Desktop\422610\422610\ANN1\x64\Debug\ANN1.Form1.resources
+C:\Users\zhroz\Desktop\422610\422610\ANN1\x64\Debug\ANN1.vcxproj.GenerateResource.cache

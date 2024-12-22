@@ -1,0 +1,30 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\zhroz\Desktop\422610\422610\ANN1\CppCLR_WinFormsProject.cpp(1,10): warning C4651: '/D__CLR_VER=40809277', geçerli derleme için değil, önceden derlenmiş üstbilgi için belirtilmiş
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(456,18): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(614,69): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(614,41): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(619,69): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(619,41): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(624,41): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(625,50): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\zhroz\Desktop\422610\422610\ANN1\Form1.h(625,41): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ('/CppCLR_WinFormsProject.cpp' kaynak dosyası derleniyor)
+  
+  AssemblyInfo.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  ANN1.vcxproj -> C:\Users\zhroz\Desktop\422610\422610\x64\Debug\ANN1.exe
